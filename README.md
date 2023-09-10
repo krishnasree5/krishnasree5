@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on my side projects
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about pyhton
+- 💬 Ask me about python
 - 📫 How to reach me: gkrishnasree5@gmail.com
 - 😄 Pronouns: She/Her
 
