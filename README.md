@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Hi there 👋, I'm Krishna Sree
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://krishnasree5.github.io/portfolio/)
@@ -25,43 +26,26 @@ Here are some ideas to get you started:
 I'm a Computer Science student at SR University with a passion for web development and software engineering. Currently exploring the world of full-stack development.
 <!-- while honing my skills in AI/ML. -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnasree5&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasree5&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnasree5&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasree5&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## 👨‍💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-<!-- ## 🚀 Featured Projects
-
-### Library Management System
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnasree5/library-management)
-
-A comprehensive library management system built with Python and Django that automates book cataloging, issue management, and member registration.
-
-### Secure Login and Registration System
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnasree5/secure-login)
-
-A robust authentication system featuring social login with Google and Facebook, secure password hashing, and session management.
-
-### Google Keep Clone
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnasree5/google-keep-clone)
-
-An intuitive task management application inspired by Google Keep, built with React and utilizing hooks and Context API. -->
 
 ## 🏆 Achievements
 - First place in SRU Internal Hackathon for Smart India Hackathon 2024
@@ -69,30 +53,20 @@ An intuitive task management application inspired by Google Keep, built with Rea
 
 ## 📊 GitHub Stats
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=krishnasree5&theme=radical)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=krishnasree5&theme=react-dark)
-
-<!-- ## 📌 Pinned Repositories
-
-<a href="https://github.com/krishnasree5/library-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnasree5&repo=library-management&theme=radical" />
-</a>
-<a href="https://github.com/krishnasree5/secure-login">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnasree5&repo=secure-login&theme=radical" />
-</a>
-<a href="https://github.com/krishnasree5/google-keep-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnasree5&repo=google-keep-clone&theme=radical" />
-</a> -->
-
-## 📈 Contribution Graph
-![Snake animation](https://github.com/krishnasree5/krishnasree5/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasree5&theme=radical" alt="GitHub streak stats" />
+</p>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnasree5&theme=react-dark" alt="GitHub Activity Graph" />
+  </a>
+</p>
 
 ## 🤝 Open to Collaborate
 - 🔭 I'm currently working on enhancing my full-stack development skills
-<!-- - 🌱 I'm currently learning advanced React patterns and AI/ML concepts -->
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about web development, Python, or React
+<!-- - 🌱 I'm currently learning advanced React patterns and AI/ML concepts -->
 
 ---
 
@@ -111,3 +85,4 @@ An intuitive task management application inspired by Google Keep, built with Rea
     <img src="https://img.shields.io/github/stars/krishnasree5/krishnasree5" alt="stars" />
   </a>
 </p>
+
